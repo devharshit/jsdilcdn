@@ -1,0 +1,5 @@
+https://cdn.jsdelivr.net/gh/devharshit/jsdilcdn/js/script.js
+https://cdn.jsdelivr.net/gh/devharshit/jsdilcdn/js/script.min.js
+
+https://cdn.jsdelivr.net/gh/devharshit/jsdilcdn/css/style.css
+https://cdn.jsdelivr.net/gh/devharshit/jsdilcdn/css/style.min.css
